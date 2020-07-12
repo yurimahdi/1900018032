@@ -1,0 +1,62 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	height: 600px;
+	background-color: #0084ff;
+	align-items: center;
+	font-family: sans-serif;
+}
+.Pemesanan
+{
+	background-color: #ffff;
+	width: :350px;
+	text-align: center;
+	padding: 40px;
+	box-sizing: border-box;
+	border-radius: 10px;
+}
+.Pemesanan h2
+{
+	margin: 0 0 20px;
+	width: 100%;
+	margin-bottom: 25px;
+}
+.Pemesanan .input
+{
+	position: relative;
+	width: 100%;
+	margin-bottom: 25px;
+}
+.Pemesanan .input input
+{
+	height: 50px;
+	width: 100%;
+	padding: 0 20px;
+	box-sizing: border-box;
+	border: 1px solid black;
+	border-radius: 20px;
+}
+.Pemesanan .button input
+{
+	height: 50px;
+	width: 100%;
+	padding: 0 20px;
+	box-sizing: border-box;
+	border: 1px #ffff;
+	border-radius: 20px;
+	background-color: #00b3d6;
+	color: #ffff;
+
+}
+.Pemesanan .input select
+{
+	height: 50px;
+	width: 100%;
+	padding: 0 20px;
+	box-sizing: border-box;
+	border: 1px solid black;
+	border-radius: 20px;
+}
